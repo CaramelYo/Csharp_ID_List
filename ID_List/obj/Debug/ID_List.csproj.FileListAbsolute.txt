@@ -1,3 +1,12 @@
 E:\Lesson\C#\ID_List\ID_List\bin\Debug\Week04_2.exe.config
 E:\Lesson\C#\ID_List\ID_List\obj\Debug\Week04_2.exe
 E:\Lesson\C#\ID_List\ID_List\obj\Debug\Week04_2.pdb
+E:\Courses\C#\ID_List\ID_List\bin\Debug\Week04_2.exe.config
+E:\Courses\C#\ID_List\ID_List\obj\Debug\Week04_2.exe
+E:\Courses\C#\ID_List\ID_List\obj\Debug\Week04_2.pdb
+E:\Courses\C#\ID_List\ID_List\bin\Debug\Week04_2.exe
+E:\Courses\C#\ID_List\ID_List\bin\Debug\Week04_2.pdb
+E:\Courses\C#\ID_List\ID_List\obj\Debug\ID_List.csprojResolveAssemblyReference.cache
+E:\Courses\C#\ID_List\ID_List\obj\Debug\Week04_2.Form1.resources
+E:\Courses\C#\ID_List\ID_List\obj\Debug\Week04_2.Properties.Resources.resources
+E:\Courses\C#\ID_List\ID_List\obj\Debug\ID_List.csproj.GenerateResource.Cache
